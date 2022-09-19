@@ -2,5 +2,13 @@
 # ActividadesProjecto-
 Los avances del projecto final de mi equipo voy a subir aqui : 
 ___
-#Dataset
+# Dataset
+
 Clore, John, Cios, Krzysztof, DeShazo, Jon & Strack, Beata. (2014). Diabetes 130-US hospitals for years 1999-2008. UCI Machine Learning Repository.
+
+[diabetic_data.csv](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/dataset/IDs_mapping.csv)
+_This file contains the raw data uploaded from UCI_
+
+[
+IDs_mapping.csv](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/dataset/IDs_mapping.csv)
+_This file contains the `admission_type_id`, `discharge_disposition_id`, `admission_source_id` dodes descriptions_
