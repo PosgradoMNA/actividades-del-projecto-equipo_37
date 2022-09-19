@@ -11,4 +11,4 @@ _This file contains the raw data uploaded from UCI_
 
 [
 IDs_mapping.csv](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/dataset/IDs_mapping.csv)
-_This file contains the `admission_type_id`, `discharge_disposition_id`, `admission_source_id` dodes descriptions_
+_This file contains the `admission_type_id`, `discharge_disposition_id`, `admission_source_id` codes descriptions_
