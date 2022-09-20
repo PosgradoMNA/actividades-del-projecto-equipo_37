@@ -5,6 +5,7 @@ ___
 # [Dataset](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/tree/main/dataset)
 
 Clore, John, Cios, Krzysztof, DeShazo, Jon & Strack, Beata. (2014). Diabetes 130-US hospitals for years 1999-2008. UCI Machine Learning Repository.
+https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#
 
 [diabetic_data.csv](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/dataset/IDs_mapping.csv)
 _This file contains the raw data uploaded from UCI_
