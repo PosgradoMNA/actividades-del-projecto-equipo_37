@@ -3,5 +3,6 @@
 Los avances del projecto final de mi equipo voy a subir aqui : 
 ___
 # Actualizaciones
-Avance 1
+Avance 1:
 [Equipo37_ProyectoFinal_Avance_01.ipynb](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/Equipo37_ProyectoFinal_Avance_01.ipynb)
+_Descripción del set de datos y preguntas de investigación_
