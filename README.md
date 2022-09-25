@@ -2,18 +2,6 @@
 # ActividadesProjecto-
 Los avances del projecto final de mi equipo voy a subir aqui : 
 ___
-# [Dataset](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/tree/main/dataset)
-
-Clore, John, Cios, Krzysztof, DeShazo, Jon & Strack, Beata. (2014). Diabetes 130-US hospitals for years 1999-2008. UCI Machine Learning Repository.
-https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#
-
-[diabetic_data.csv](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/dataset/IDs_mapping.csv)
-_This file contains the raw data uploaded from UCI_
-
-[
-IDs_mapping.csv](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/dataset/IDs_mapping.csv)
-_This file contains the `admission_type_id`, `discharge_disposition_id`, `admission_source_id` codes descriptions_
-
-
-Hola
-si funciona
+# Actualizaciones
+Avance 1
+[Equipo37_ProyectoFinal_Avance_01.ipynb](https://github.com/PosgradoMNA/actividades-del-projecto-equipo_37/blob/main/Equipo37_ProyectoFinal_Avance_01.ipynb)
